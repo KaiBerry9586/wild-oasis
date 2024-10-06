@@ -1,0 +1,187 @@
+// Search for: 'jo', 'fa', 'mar', 'emm', 'ah'
+
+export const guests = [
+  {
+    // id: 1000,
+    full_name: "Jonas Schmedtmann",
+    email: "hello@jonas.io",
+    nationality: "Portugal",
+    country_flag: "https://flagcdn.com/pt.svg",
+  },
+  {
+    full_name: "Jonathan Smith",
+    email: "johnsmith@test.eu",
+    nationality: "Great Britain",
+    country_flag: "https://flagcdn.com/gb.svg",
+  },
+  {
+    full_name: "Jonatan Johansson",
+    email: "jonatan@example.com",
+    nationality: "Finland",
+    country_flag: "https://flagcdn.com/fi.svg",
+  },
+  {
+    full_name: "Jonas Mueller",
+    email: "jonas@example.eu",
+    nationality: "Germany",
+    country_flag: "https://flagcdn.com/de.svg",
+  },
+  {
+    full_name: "Jonas Anderson",
+    email: "anderson@example.com",
+    nationality: "Bolivia (Plurinational State of)",
+    country_flag: "https://flagcdn.com/bo.svg",
+  },
+  {
+    full_name: "Jonathan Williams",
+    email: "jowi@gmail.com",
+    nationality: "United States of America",
+    country_flag: "https://flagcdn.com/us.svg",
+  },
+
+  // GPT
+  {
+    full_name: "Emma Watson",
+    email: "emma@gmail.com",
+    nationality: "United Kingdom",
+    country_flag: "https://flagcdn.com/gb.svg",
+  },
+  {
+    full_name: "Mohammed Ali",
+    email: "mohammedali@yahoo.com",
+    nationality: "Egypt",
+    country_flag: "https://flagcdn.com/eg.svg",
+  },
+  {
+    full_name: "Maria Rodriguez",
+    email: "maria@gmail.com",
+    nationality: "Spain",
+    country_flag: "https://flagcdn.com/es.svg",
+  },
+  {
+    full_name: "Li Mei",
+    email: "li.mei@hotmail.com",
+    nationality: "China",
+    country_flag: "https://flagcdn.com/cn.svg",
+  },
+  {
+    full_name: "Khadija Ahmed",
+    email: "khadija@gmail.com",
+    nationality: "Sudan",
+    country_flag: "https://flagcdn.com/sd.svg",
+  },
+  {
+    full_name: "Gabriel Silva",
+    email: "gabriel@gmail.com",
+    nationality: "Brazil",
+    country_flag: "https://flagcdn.com/br.svg",
+  },
+  {
+    full_name: "Maria Gomez",
+    email: "maria@example.com",
+    nationality: "Mexico",
+    country_flag: "https://flagcdn.com/mx.svg",
+  },
+  {
+    full_name: "Ahmed Hassan",
+    email: "ahmed@gmail.com",
+    nationality: "Egypt",
+    country_flag: "https://flagcdn.com/eg.svg",
+  },
+  {
+    full_name: "John Doe",
+    email: "johndoe@gmail.com",
+    nationality: "United States",
+    country_flag: "https://flagcdn.com/us.svg",
+  },
+  {
+    full_name: "Fatima Ahmed",
+    email: "fatima@example.com",
+    nationality: "Pakistan",
+    country_flag: "https://flagcdn.com/pk.svg",
+  },
+  {
+    full_name: "David Smith",
+    email: "david@gmail.com",
+    nationality: "Australia",
+    country_flag: "https://flagcdn.com/au.svg",
+  },
+  {
+    full_name: "Marie Dupont",
+    email: "marie@gmail.com",
+    nationality: "France",
+    country_flag: "https://flagcdn.com/fr.svg",
+  },
+  {
+    full_name: "Ramesh Patel",
+    email: "ramesh@gmail.com",
+    nationality: "India",
+    country_flag: "https://flagcdn.com/in.svg",
+  },
+  {
+    full_name: "Fatimah Al-Sayed",
+    email: "fatimah@gmail.com",
+    nationality: "Kuwait",
+    country_flag: "https://flagcdn.com/kw.svg",
+  },
+  {
+    full_name: "Nina Williams",
+    email: "nina@hotmail.com",
+    nationality: "South Africa",
+    country_flag: "https://flagcdn.com/za.svg",
+  },
+  {
+    full_name: "Taro Tanaka",
+    email: "taro@gmail.com",
+    nationality: "Japan",
+    country_flag: "https://flagcdn.com/jp.svg",
+  },
+  {
+    full_name: "Abdul Rahman",
+    email: "abdul@gmail.com",
+    nationality: "Saudi Arabia",
+    country_flag: "https://flagcdn.com/sa.svg",
+  },
+  {
+    full_name: "Julie Nguyen",
+    email: "julie@gmail.com",
+    nationality: "Vietnam",
+    country_flag: "https://flagcdn.com/vn.svg",
+  },
+  {
+    full_name: "Sara Lee",
+    email: "sara@gmail.com",
+    nationality: "South Korea",
+    country_flag: "https://flagcdn.com/kr.svg",
+  },
+  {
+    full_name: "Carlos Gomez",
+    email: "carlos@yahoo.com",
+    nationality: "Colombia",
+    country_flag: "https://flagcdn.com/co.svg",
+  },
+  {
+    full_name: "Emma Brown",
+    email: "emma@gmail.com",
+    nationality: "Canada",
+    country_flag: "https://flagcdn.com/ca.svg",
+  },
+  {
+    full_name: "Juan Hernandez",
+    email: "juan@yahoo.com",
+    nationality: "Argentina",
+    country_flag: "https://flagcdn.com/ar.svg",
+  },
+  {
+    full_name: "Ibrahim Ahmed",
+    email: "ibrahim@yahoo.com",
+    nationality: "Nigeria",
+    country_flag: "https://flagcdn.com/ng.svg",
+  },
+  {
+    full_name: "Mei Chen",
+    email: "mei@gmail.com",
+    nationality: "Taiwan",
+    country_flag: "https://flagcdn.com/tw.svg",
+  },
+];
